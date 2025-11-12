@@ -60,6 +60,13 @@ links:
       title: "Podcast: Schmerzenssache"
       target: "_blank"
   - link:
+      icon: "fa-brands fa-youtube"
+      text: "Reaction: ARD-Beitrag über chronischen Schmerz (für den ich interviewt wurde)"
+      url: "https://youtu.be/o8lEB1IBzWk"
+      alt: "Reaction: ARD-Beitrag über chronischen Schmerz (für den ich interviewt wurde)"
+      title: "Reaction: ARD-Beitrag über chronischen Schmerz (für den ich interviewt wurde)"
+      target: "_blank"
+  - link:
       icon: "fa-solid fa-rss"
       text: "Podcast: Ach? Triumvirat für historisch inspirierte Humorvermittlung"
       url: "https://das-a.ch"
